@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on **Beginner's level game development**
 
-- 🌱 I’m currently learning **How to develop games through UNREAL ENGINE 5 using C++ and also I am brushing up my skills in UI/UX field**
+- 🌱 I’m currently learning **How to develop games through Unity using C#, AR/VR using vuforia and private sdk and also I am brushing up my skills in UI/UX field**
 
 - 🤝 I’m looking for help from **people who are like minded and have creative ideas in game dev field.**
 
-- 💬 Ask me about **Figma,Adobe xd, Gaming, Anime**
+- 💬 Ask me about **Unity, AR, VR, Blender, Figma, Gaming, Anime**
 
 - 📫 Reach me out at **pritam1pal2000@gmail.com**
 
