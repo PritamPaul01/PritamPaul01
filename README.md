@@ -28,50 +28,24 @@
 - ⚡ Fun fact **I like anime and playing games. So if you wanna join me then dm me at discord. ID: black_0_ghost**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://twitter.com/xokeepitdopeox" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<a href="https://twitter.com/xokeepitdopeox">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
-<a href="https://linkedin.com/in/pritam-pal" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://linkedin.com/in/pritam-pal">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://discord.gg/F3Pb4GuZ8a" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+<a href="https://discord.gg/F3Pb4GuZ8a">
+<img align="center" src="https://skillicons.dev/icons?i=discord" height="40"/>
 </a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://dart.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://flutter.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://unity.com/" target="_blank">
-<img src="https://logos-world.net/wp-content/uploads/2023/01/Unity-Logo.png" width="40" height="40"/>
-</a>
-<a href="https://unrealengine.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="40" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal,blender,figma,flutter,dart,git,github" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritampaul01&show_icons=true&locale=en&layout=compact" alt="pritampaul01" /></p>
