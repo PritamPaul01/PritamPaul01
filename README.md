@@ -25,7 +25,7 @@
 
 - 📄 Want to know about my experiences, then click on this link [https://drive.google.com/file/d/10FrkfzilA1pXus1a1AaAlJ_S8kajrlE3/view?usp=drivesdk](https://drive.google.com/file/d/10FrkfzilA1pXus1a1AaAlJ_S8kajrlE3/view?usp=drivesdk)
 
-- ⚡ Fun fact **I like anime and playing games. So if you wanna join me then dm me at discord. ID: BLACKツGHOST#6723**
+- ⚡ Fun fact **I like anime and playing games. So if you wanna join me then dm me at discord. ID: black_0_ghost**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
